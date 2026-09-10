@@ -476,6 +476,7 @@ This repo can serve as inspiration for your portfolio!
 - [Cade Kynaston](https://cade.codes)
 - [Calzye](https://calzye.com) [AI-Powered Calculator Developer]
 - [Camil Bradea](https://bradeac.dev) [Senior Full Stack Engineer | TypeScript, React, Laravel, Docker, AWS]
+- [Caio Oliveira](https://caiothedev.com) [Full Stack Developer | Software Engineer | UX/UI]
 - [Capt Michael](https://captmichael.dev) [Mern Full Stack Developer]
 - [Carlos Dubón](https://carlosdubon.dev)
 - [Carlos Gutierrez](https://cargdev.io) [Senior Full Stack Engineer | Python, Typescript, Distributed Systems]
